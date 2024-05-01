@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eC78CLeaf38WuP3X+EdPHMEJbuD56cb7yG98GoekEGwH1kpJp3BGMUurRbqb2UcJpWtEnVs61Xnn8fyk4djYRg==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\MinimalAPIDemo\\MinimalAPIDemo\\MinimalAPIDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My Lappy\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\My Lappy\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\My Lappy\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
